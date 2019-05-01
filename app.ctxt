@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=app
+comment0.text=\nAryan\ Payne\n4/17/19\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=java.lang.String\ add()
+comment3.params=
+comment3.target=java.lang.String\ search()
+comment3.text=\n\ \ \ \ public\ static\ String\ delete(){\n\ \ \ \ \ \ \ \ System.out.println('\f'+"What\ would\ you\ like\ to\ delete\ or\ would\ you\ like\ to\ go\ 'back'");\n\ \ \ \ \ \ \ \ String\ act2\ \=\ UserInput.getString();\n\ \ \ \ \ \ \ \ if(act2.equals("back")){\n\ \ \ \ \ \ \ \ \ \ \ \ main();\n\ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ if(act2.equals("close")){\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println("Good\ bye\!");\n\ \ \ \ \ \ \ \ \ \ \ \ System.exit(0);\n\ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ msg\ \=\ "If\ you\ need\ anything\ just\ ask\ for\ 'info'";\n\ \ \ \ \ \ \ \ return\ msg;\n\ \ \ \ }\n
+comment4.params=
+comment4.target=java.lang.String\ address()
+comment5.params=
+comment5.target=java.lang.String\ phone()
+comment6.params=
+comment6.target=java.lang.String\ occupation()
+comment7.params=
+comment7.target=java.lang.String\ email()
+numComments=8

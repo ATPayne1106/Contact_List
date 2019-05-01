@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=occupations
+comment0.text=\n\ Abstract\ class\ occupations\ -\ write\ a\ description\ of\ the\ class\ here\n\n\ @author\ (your\ name\ here)\n\ @version\ (version\ number\ or\ date\ here)\n
+comment1.params=
+comment1.target=java.lang.String\ occupation()
+numComments=2

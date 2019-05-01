@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=InfoFile
+comment1.params=
+comment1.target=java.lang.String\ readString()
+comment1.text=\n\ this\ code\ should,\ when\ called,\ add\ what\ ever\ text\ is\ needed\ from\ other\ classes\ to\ a\ txt\ file\ rather\ tan\ delete\ it\n\ Also\ it\ should\ be\ able\ to\ read\ the\ txt\ file\ and\ send\ that\ info\ to\ the\ search\ method\ in\ the\ app\ class.\n
+comment2.params=s
+comment2.target=void\ writeString(java.lang.String)
+comment3.params=s
+comment3.target=void\ writeString2(java.lang.String)
+comment4.params=
+comment4.target=void\ saveAndClose()
+numComments=5
